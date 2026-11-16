@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <tableborder ="1">
+        <tr>
+            <th>name</th>
+            <th>course</th>
+            <th>location</th>
+        </tr>
+        <tr>
+            <td>sanjina</td>
+            <td>fswd</td>
+            <td>navalur</td>
+        </tr>
+        <tr>
+            <td>deepak</td>
+            <td>ceo</td>
+            <td>chennai</td>
+        </tr>
+    </table>   
+</body>
+</html>
